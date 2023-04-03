@@ -1,1 +1,2 @@
- echo "Welcome to projectschool 2.0" > file1.txt
+echo "Welcome to projectschool 2.0" > file1.txt
+echo "Cyber security session" >> file1.txt
